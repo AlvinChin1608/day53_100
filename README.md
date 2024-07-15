@@ -13,6 +13,9 @@ This Python script demonstrates automated data entry capabilities, specifically 
 - __Data Processing:__ Cleans and formats scraped data (addresses, prices, and links) for usability in subsequent tasks.
 - __Form Filling Automation:__ Uses _Selenium_ to automatically fill out Google Forms with the scraped data, demonstrating how automation can enhance efficiency in data entry processes.
 - __CSV Export:__ Outputs the scraped data into a CSV file (zillow_data.csv), providing a structured format for further analysis or storage.
+
+## Demo
+![](https://github.com/AlvinChin1608/day53_100/blob/main/gif_demo/copy_D0E92EA1-8D22-4D13-85BD-851E549AB599-ezgif.com-video-to-gif-converter.gif)
   
 ## Why Automation?
 Automation plays a crucial role in reducing manual effort and human error, making it invaluable in remote job settings where repetitive tasks like data entry are prevalent. This script serves as an example of how automation can optimize workflow and free up time for more strategic activities.
